@@ -3,7 +3,7 @@
 
 ## Description
 
-This is an employee tracker that can view, or add, departments, roles, and employees and insert them into mysql tables.
+A back end application to create, delete, update, and view products, categories, and tags.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Use MySql to create database. Run NPM I and NPM seed to instal dependencies and 
 
 Demo : https://drive.google.com/file/d/1bjgZ1bW2AOMbcD_ii2KIqfhWwGbQOI5F/view
 
-![screenshot](./images/13SS.JPG)
+![screenshot](./images/Ecomss.JPG)
 
 ## Credits
 
